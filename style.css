@@ -8,7 +8,16 @@
     justify-content: center;
     margin-top: 30px;
 }
+#title1 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+}
 #reset {
+    width: 40%;
+    display: flex;
+    justify-content: center;
     color:red;
     margin-top: 5px;
     padding-left: 100px;
@@ -16,7 +25,7 @@
 }
 .maindiv1 {
     display: flex;
-    margin-left: 12.5%;
+    justify-content: center;
     margin-top: 40px;
 }
 h5 {
@@ -65,9 +74,8 @@ img {
 }
 .maindiv2 {
     display: flex;
-    margin-left: 50px;
+    justify-content: center;
     margin-top: 40px;
-    margin-left: 12.5%;
 }
 .div3 {
     border: 1px solid black;
