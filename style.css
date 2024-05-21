@@ -27,6 +27,8 @@
     display: flex;
     justify-content: center;
     margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 h5 {
     font-size: 15px;
@@ -76,6 +78,8 @@ img {
     display: flex;
     justify-content: center;
     margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .div3 {
     border: 1px solid black;
